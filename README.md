@@ -4,10 +4,11 @@ This program takes in pdf as input and converts it to raw data,scrape articles f
 
 # Pre-Requisites:
 
-1.Python installed with these libraries
+1.Python installed with these libraries:
     a.bs4
     b.nltk
     c.pdfminer
+2. PDF file
 
 # Run the program:
 
