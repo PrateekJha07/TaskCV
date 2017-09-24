@@ -4,16 +4,11 @@ This program takes in pdf as input and converts it to raw data,scrape articles f
 
 # Pre-Requisites:
 
-1.Python installed with these libraries:
-    a.bs4
-    b.nltk
-    c.pdfminer
-2. PDF file
+1.Python installed with these libraries: bs4, nltk, pdfminer
+2.PDF file
 
 # Run the program:
-You can install the libraries by using the command "pip install <library name>".
-You need to convert the pdf to raw data by typing the command "pdf2txt.py -o filename.txt -t tag <pdfname.pdf>". In order to run the program you'll need to type
-"python taskCV.py"
+You can install the libraries by using the command "pip install library name".You need to convert the pdf to raw data by typing the command "pdf2txt.py -o filename.txt -t tag <pdfname.pdf>". In order to run the program you'll need to type"python taskCV.py"
 
 # Input: 
 CV (pdf)
